@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter, Dart , NodeJs**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Mobile Development**
 
 - 💬 Ask me about **Flutter, Dart, NodeJs**
 
